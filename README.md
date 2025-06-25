@@ -17,9 +17,12 @@ A modern, user-friendly desktop application for tracking expenses, managing budg
 ---
 
 ## Screenshots
+---
 
 ![image](https://github.com/user-attachments/assets/6229e709-5de1-4934-aa08-23add097f5af)
+---
 ![image](https://github.com/user-attachments/assets/ac41c597-8be0-4700-84f1-02c31a4392a7)
+---
 ![image](https://github.com/user-attachments/assets/8bc05d91-f3cf-4319-a876-8e4e11dd8007)
 
 
